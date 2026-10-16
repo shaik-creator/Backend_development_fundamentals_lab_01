@@ -97,7 +97,7 @@ The `/anything` path is an example of an unknown route. Other undefined paths sh
 
 Displays the welcome message.
 
-![Home route response](screenshots/home.png)
+![Home route response](screenshots/Screenshot%2026-10-16%114920.png)
 
 ### 2. About Route
 
