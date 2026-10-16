@@ -1,11 +1,10 @@
-# Backend_development_fundamentals_lab_01
 # Lab 1: Node.js and Express Server
 
 ## Student Details
 
-- **Name:** Your Full Name
-- **Registration Number:** Your Registration Number
-- **Section:** Your Section
+- **Name:** Shaik Suheal
+- **Registration Number:** 252U1R9145
+- **Section:** CSE-GEN-AI 2C 112
 - **Course:** Backend Development Fundamentals
 - **Lab Number:** 01
 
